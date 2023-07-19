@@ -1,4 +1,4 @@
-//This is our final project. Mahdie Shahhoseini, Sargol Moslemi, and I are working on it. That was a great experience for my first semester!
+//This is our final project. Mahdieh Shahhoseini, Sargol Moslemi, and I are working on it.
 
 #include <stdio.h>
 #include <conio.h> // getch();
